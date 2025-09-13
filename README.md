@@ -1,5 +1,3 @@
-# Fast-Food-App-Account-Deletion
-
 # Moe’s Pizza – Account Deletion Instructions
 
 This document explains how users of the **Moe’s Pizza** app (developed by **Apexiom Software**) can delete their account and associated data in compliance with Google Play policies.
